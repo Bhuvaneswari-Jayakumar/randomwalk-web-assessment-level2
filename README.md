@@ -46,7 +46,7 @@ A simple, web-based Tic Tac Toe game designed for two players to enjoy a fun and
 
 Open index.html in a web browser to play the game.
 
-**Project Demo 🎥
+  **Project Demo 🎥**
   
 
 ## How It Works ⚙️
@@ -66,9 +66,9 @@ Open index.html in a web browser to play the game.
 
 ## Future Improvements
 
---Add a single-player mode with an AI opponent.
---Enhance the UI with animations for a smoother experience.
---Provide additional themes or custom styling options.
+- Add a single-player mode with an AI opponent.
+- Enhance the UI with animations for a smoother experience.
+- Provide additional themes or custom styling options.
 
 ## Contributing 🤝
 
