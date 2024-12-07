@@ -31,15 +31,7 @@ A simple, web-based Tic Tac Toe game designed for two players to enjoy a fun and
 
 ---
 
-## File Structure 📂
 
-```plaintext
-├── index.html          # Main HTML file for the game layout
-├── style.css           # CSS file for styling the game
-├── script.js           # JavaScript file for game logic
-└── README.md           # Documentation
-
----
 
 ## Setup and Installation 🚀
 
