@@ -29,19 +29,6 @@ A simple, web-based Tic Tac Toe game designed for two players to enjoy a fun and
 - **CSS**: Styles the game for a visually appealing and responsive interface.
 - **JavaScript**: Implements the game logic, handling player turns, move validation, and determining game outcomes.
 
----
-
-## File Structure 📂
-
-```plaintext
-├── index.html          # Main HTML file for the game layout
-├── style.css           # CSS file for styling the game
-├── script.js           # JavaScript file for game logic
-├── video.mp4           # demo video
-└── README.md           # Documentation
-
----
-
 ## Setup and Installation 🚀
 
 1. **Clone this repository:**
@@ -87,4 +74,6 @@ For questions or feedback, reach out to:
 
 - **Name**: bhuvaneswari J
 - **Email**: bhuvaneswarijayakumar475@gmail.com 
-- **GitHub**: [Your GitHub Profile](https://github.com/Bhuvaneswari-Jayakumar)
+- **GitHub**: [GitHub Profile](https://github.com/Bhuvaneswari-Jayakumar)
+
+
