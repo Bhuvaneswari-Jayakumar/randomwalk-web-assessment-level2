@@ -31,15 +31,7 @@ A simple, web-based Tic Tac Toe game designed for two players to enjoy a fun and
 
 ---
 
-## File Structure 📂
 
-```plaintext
-├── index.html          # Main HTML file for the game layout
-├── style.css           # CSS file for styling the game
-├── script.js           # JavaScript file for game logic
-└── README.md           # Documentation
-
----
 
 ## Setup and Installation 🚀
 
@@ -54,7 +46,7 @@ A simple, web-based Tic Tac Toe game designed for two players to enjoy a fun and
 
 Open index.html in a web browser to play the game.
 
-**Project Demo 🎥
+  **Project Demo 🎥**
   
 
 ## How It Works ⚙️
@@ -74,9 +66,9 @@ Open index.html in a web browser to play the game.
 
 ## Future Improvements
 
---Add a single-player mode with an AI opponent.
---Enhance the UI with animations for a smoother experience.
---Provide additional themes or custom styling options.
+- Add a single-player mode with an AI opponent.
+- Enhance the UI with animations for a smoother experience.
+- Provide additional themes or custom styling options.
 
 ## Contributing 🤝
 
@@ -89,4 +81,4 @@ For questions or feedback, reach out to:
 
 - **Name**: bhuvaneswari J
 - **Email**: bhuvaneswarijayakumar475@gmail.com 
-- **GitHub**: [Your GitHub Profile](https://github.com/Bhuvaneswari-Jayakumar)
+- **GitHub**: [GitHub Profile](https://github.com/Bhuvaneswari-Jayakumar)
